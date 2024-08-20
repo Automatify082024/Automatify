@@ -1,0 +1,8 @@
+
+    <div class="counter-container text-center mt-5">
+        <div id="display-count"></div>
+        <div id="button-container">
+            <button class="btn btn-primary btn-custom" id="decrement">-</button>
+            <button class="btn btn-success btn-custom" id="increment">+</button>
+        </div>
+    </div>

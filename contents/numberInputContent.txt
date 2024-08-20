@@ -1,0 +1,4 @@
+<div class="input-group mb-3">
+  <span class="input-group-text">$</span>
+  <input type="number" class="form-control" id="price" aria-label="Dollar amount (with dot and two decimal places)">
+</div>

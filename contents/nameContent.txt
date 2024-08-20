@@ -1,0 +1,20 @@
+<h2 name="content-title">Name</h2>
+<p name="content-description">The name attribute in HTML is primarily used for form elements, such as input, select, textarea, and button. It is used to identify the form data after the form is submitted. When a form is submitted, the data is sent to the server with the name attribute as the key and the value of the form element as the value.</p>
+<h3 class="key-points">Key Points:</h3>
+<ul class="list">
+<li class="list-items">
+<p>
+<b>Form Data Submission:</b> The <b>name</b> attribute is essential for form elements because it specifies the key that will be used to send the element's value to the server. Without a <b>name</b>, the form data from that element won't be sent.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>Grouping Radio Buttons:</b> The <b>name</b> attribute is also used to group radio buttons together. When multiple radio buttons have the same <b>name</b>, they become mutually exclusive, meaning only one can be selected at a time.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>Accessing Form Data:</b> On the server-side, the <b>name</b> attribute is used to retrieve the submitted data. For example, in a server script, you might access the data using the <b>name</b> attribute as the key.
+</p>
+</li>
+</ul>

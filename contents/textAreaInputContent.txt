@@ -1,0 +1,4 @@
+<div class="mb-3">
+  <label for="text-area" class="form-label">Write a comment</label>
+  <textarea class="form-control" id="text-area" rows="3"></textarea>
+</div>

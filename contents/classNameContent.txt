@@ -1,0 +1,20 @@
+<h2 class="content-title">Class Name</h2>
+<p class="content-description">The class attribute in HTML is used to assign one or more class names to an HTML element. These class names can be used to style the element using CSS, or to select the element using JavaScript. Classes are a way to apply the same styles or behaviors to multiple elements across a webpage, providing a consistent look and functionality.</p>
+<h3 class="key-points">Key Points:</h3>
+<ul class="list">
+<li class="list-items">
+<p>
+<b>Styling with CSS:</b> The <b>class</b> attribute allows you to apply CSS rules to elements that share the same class name. For example, if you want all buttons with a specific design, you can create a CSS rule for a class like <b>.btn-primary</b>, and then apply this class to all relevant buttons.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>JavaScript Manipulation:</b> In JavaScript, you can select and manipulate elements with a specific class using methods like <b>document.querySelector</b> or <b>document.getElementsByClassName</b>.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>Multiple Classes:</b> An element can have multiple classes, separated by spaces. This allows for combining styles or behaviors from different classes.
+</p>
+</li>
+</ul>

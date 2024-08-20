@@ -1,0 +1,20 @@
+<h2 id="content-title">ID</h2>
+<p id="content-description">The id attribute in HTML is used to uniquely identify an element within a document. Unlike the class attribute, which can be shared among multiple elements, an id must be unique within the entire HTML document. This means that no two elements should have the same id value.</p>
+<h3 class="key-points">Key Points:</h3>
+<ul class="list">
+<li class="list-items">
+<p>
+<b>Unique Identifier:</b> The <b>id</b> attribute is designed to be a unique identifier for an element, making it easy to reference in CSS and JavaScript.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>Styling with CSS:</b> You can use an <b>id</b> to apply specific styles to a single element using the <b>#</b> selector in CSS. Since IDs are unique, the styles will only apply to the element with that specific <b>id</b>.
+</p>
+</li>
+<li class="list-items">
+<p>
+<b>JavaScript Manipulation:</b> In JavaScript, you can quickly select an element by its <b>id</b> using methods like <b>document.getElementById</b>. This makes it easy to manipulate a specific element directly.
+</p>
+</li>
+</ul>

@@ -1,0 +1,5 @@
+<h1 class="content-title" id="content-title" name="content-title">Welcome to Selenium Starter!</h1>
+<p>Kickstart your journey into automated testing with Selenium. Whether you're just getting started or brushing
+up on the basics, you've come to the right place. Explore hands-on tutorials, real-world examples, and a
+community of learners eager to share knowledge. Let's make web automation simple and fun—practice, learn,
+and master Selenium with us!</p>

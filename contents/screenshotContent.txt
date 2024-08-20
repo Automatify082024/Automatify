@@ -1,0 +1,7 @@
+<div class="frame-container">
+        <div class="image-container">
+            <!-- Replace the URL with the path to your image -->
+            <img src="images/cute-dog.jpg" alt="Image" class="img-fluid">
+        </div>
+        <p class="lead">Take a picture of me</p>
+    </div>
